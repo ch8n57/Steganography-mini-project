@@ -1,0 +1,1 @@
+Replace the image path in encrypt.py before executing the code
